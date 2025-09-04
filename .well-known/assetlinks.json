@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "FieldOpsApp",
+      "package_name": "ca.abadata.fieldops.app.FieldOpsApp",
+      "sha256_cert_fingerprints": [
+        "C4:54:F3:69:FA:2B:AE:35:84:BD:C5:22:D4:4C:B5:72:97:8A:29:B3:59:73:E0:82:53:FF:EE:A6:3B:FD:5C:DA"
+      ]
+    }
+  }
+]
