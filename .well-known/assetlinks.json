@@ -4,10 +4,46 @@
     "target": {
       "namespace": "android_app",
       "package_name": "ca.abadata.fieldops.karveenergy",
+      "sha256_cert_fingerprints":
+      [
+        "1C:92:AD:AE:4D:73:BF:34:9F:5A:CF:1A:F5:61:B2:91:1D:67:47:4A:7A:0E:4B:4D:21:16:B9:0F:80:25:C4:F4",
+        "6A:9C:C0:92:2D:15:F0:C0:D2:AB:61:09:34:67:92:0B:9C:67:FB:74:E6:33:25:B4:31:D2:B0:7D:E8:F7:1E:2C"
+
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ca.abadata.fieldops.karveenergy.dev",
+      "sha256_cert_fingerprints": [
+        "40:64:52:95:AE:77:C6:65:E3:FC:93:EB:79:4A:1A:08:F1:96:26:2F:ED:1E:56:38:63:7C:8E:83:65:05:40:36",
+        "C4:54:F3:69:FA:2B:AE:35:84:BD:C5:22:D4:4C:B5:72:97:8A:29:B3:59:73:E0:82:53:FF:EE:A6:3B:FD:5C:DA"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ca.abadata.fieldops",
+      "sha256_cert_fingerprints": [
+        "1C:92:AD:AE:4D:73:BF:34:9F:5A:CF:1A:F5:61:B2:91:1D:67:47:4A:7A:0E:4B:4D:21:16:B9:0F:80:25:C4:F4",
+        "6A:9C:C0:92:2D:15:F0:C0:D2:AB:61:09:34:67:92:0B:9C:67:FB:74:E6:33:25:B4:31:D2:B0:7D:E8:F7:1E:2C",
+        "40:64:52:95:AE:77:C6:65:E3:FC:93:EB:79:4A:1A:08:F1:96:26:2F:ED:1E:56:38:63:7C:8E:83:65:05:40:36",
+        "C4:54:F3:69:FA:2B:AE:35:84:BD:C5:22:D4:4C:B5:72:97:8A:29:B3:59:73:E0:82:53:FF:EE:A6:3B:FD:5C:DA"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ca.abadata.fieldops.dev",
       "sha256_cert_fingerprints": [
         "C4:54:F3:69:FA:2B:AE:35:84:BD:C5:22:D4:4C:B5:72:97:8A:29:B3:59:73:E0:82:53:FF:EE:A6:3B:FD:5C:DA",
-      "40:64:52:95:AE:77:C6:65:E3:FC:93:EB:79:4A:1A:08:F1:96:26:2F:ED:1E:56:38:63:7C:8E:83:65:05:40:36"
-      
+        "40:64:52:95:AE:77:C6:65:E3:FC:93:EB:79:4A:1A:08:F1:96:26:2F:ED:1E:56:38:63:7C:8E:83:65:05:40:36"
       ]
     }
   }
