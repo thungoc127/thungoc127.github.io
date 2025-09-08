@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "ca.abadata.fieldops",
+        "paths": [
+          "/inspection/*"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+[
+
+  {
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "ca.abadata.fieldops.karveenergy",
+          "paths": [
+            "/inspection/*"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "ca.abadata.fieldops",
+          "paths": [
+            "/inspection/*"
+          ]
+        }
+      ]
+    }
+  }
+]
